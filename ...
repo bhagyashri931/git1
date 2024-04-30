@@ -207,3 +207,8 @@ Use Git aliases
 Git aliases are shortcuts for commonly used Git commands. YoucanuseGit aliases to save time and improve your productivity when working withGit. 
 Set up a Git alias: git config –global alias.[alias name] ‘[Git command]’ Use a Git alias: git [alias name]
 
+
+
+
+
+
