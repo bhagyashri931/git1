@@ -209,6 +209,15 @@ Set up a Git alias: git config –global alias.[alias name] ‘[Git command]’ 
 
 
 
+$ git clone https://github.com/bhagyashri931/vishnu.git
+$ cd vishnu
+$ git remote add upstream https://github.com/bhagyashri931/vishnu.git
+$ git fetch upstream
+$ git checkout main
+$ git push origin main
+$ git branch my_branch
+$ git checkout my_branch
+$ git push origin my_branch
 
 
 
